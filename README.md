@@ -5519,7 +5519,8 @@ sudo -u postgres psql
 ## 96. URL To Subscribe To YouTube Channel
 
 | URL                  | <https://bgoonz-blog.netlify.app>                        |
-| -------------------- | -------------------------------------------------------- |
+| -------------------- |. 
+ -------------------------------------------------------- |
 | Miscellaneous        | webpack ; Prism                                          |
 | Widgets              | Facebook ; AddThis                                       |
 | Analytics            | Moat ; Google Analytics ; Google Ads Conversion Tracking |
